@@ -62,3 +62,6 @@ R · dplyr · tidyr · ggplot2 · readr · scales
 - Expand dataset to include job opportunities & wages for further analysis.
 - Integrate real-time climate change projections into the model.
 - Allow users to adjust ranking weights based on personal priorities (e.g., prioritizing education over cost of living).
+
+## 📝 Note on ChatGPT Assistance
+During the development and debugging phases of this project, I referenced valuable conversations with ChatGPT that helped me resolve coding issues and improve the overall solution. Unfortunately, these conversations are no longer accessible due to platform limitations, so the specific details cannot be provided here. However, the guidance and debugging steps from those interactions were integral to the project.
