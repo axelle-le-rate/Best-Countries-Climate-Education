@@ -21,13 +21,14 @@ Through data cleaning, standardization, and composite scoring, this analysis det
 ## 🏗️ Ranking Methodology
 Countries were ranked based on a composite score derived from two key indices:
 
-1️⃣ Readiness Rank (Positive Factors)
+### 1️⃣ Readiness Rank (Positive Factors)
 
 - Current Climate Readiness
 - Economic Capacity
 - Government Stability
 - Higher Education Quality
-2️⃣ Vulnerability Rank (Negative Factors)
+- 
+### 2️⃣ Vulnerability Rank (Negative Factors)
 
 - Health Risks
 - Cost of Living
