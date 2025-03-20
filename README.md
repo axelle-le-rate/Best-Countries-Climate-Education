@@ -6,7 +6,7 @@ This project ranks countries based on their climate readiness, economic capacity
 Through data cleaning, standardization, and composite scoring, this analysis determines which countries provide the best balance of climate resilience, economic stability, and affordability—with the United Kingdom emerging as the top choice!
 
 ## 🗂️ Dataset
-- Source:[University of Notre Dame](https://gain.nd.edu/our-work/country-index/)
+- Source: [University of Notre Dame](https://gain.nd.edu/our-work/country-index/)
 - Data Sizes:
   - Arable Land Per Capita: 267 rows × 5 columns (13.3KB)
   - Cost of Living: 140 rows × 8 columns (6.72 KB)
@@ -43,3 +43,22 @@ Countries were ranked based on a composite score derived from two key indices:
 - The United Kingdom ranks #1 due to strong governance, top-tier education, and a balanced cost of living.
 - Countries with high economic capacity & government stability generally rank higher.
 - Affordable cost of living significantly impacts country rankings, as seen in adjusted composite scores.
+
+## 🚀 How to Run the Project
+1. **Clone the repo**:
+```sh 
+git clone https://github.com/YourGitHubUsername/Climate-Ready-Countries-Ranking.git
+```
+2. **Install dependencies in R:
+```r
+install.packages(c("dplyr", "tidyr", "ggplot2", "readr", "scales"))
+```
+3. **Run the R script in RStudio or Jupyter Notebook with an R kernel.**
+
+## ⚙️ Technologies Used
+R · dplyr · tidyr · ggplot2 · readr · scales
+
+## 📌 Future Improvements
+- Expand dataset to include job opportunities & wages for further analysis.
+- Integrate real-time climate change projections into the model.
+- Allow users to adjust ranking weights based on personal priorities (e.g., prioritizing education over cost of living).
