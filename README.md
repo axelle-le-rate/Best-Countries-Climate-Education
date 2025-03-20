@@ -23,22 +23,22 @@ Countries were ranked based on a composite score derived from two key indices:
 
 1️⃣ Readiness Rank (Positive Factors)
 
-Current Climate Readiness
-Economic Capacity
-Government Stability
-Higher Education Quality
+- Current Climate Readiness
+- Economic Capacity
+- Government Stability
+- Higher Education Quality
 2️⃣ Vulnerability Rank (Negative Factors)
 
-Health Risks
-Cost of Living
-Fresh Water Availability
-Arable Land Availability
-📊 Final Composite Score Calculation:
-Readiness Rank - Vulnerability Rank = Composite Score
-Higher scores indicate countries that are well-prepared for climate change while offering economic stability and livability.
+- Health Risks
+- Cost of Living
+- Fresh Water Availability
+- Arable Land Availability
+- 
+## 📊 Final Composite Score Calculation:
+- Readiness Rank - Vulnerability Rank = Composite Score
+- Higher scores indicate countries that are well-prepared for climate change while offering economic stability and livability.
 
-🔍 Key Findings
-
-The United Kingdom ranks #1 due to strong governance, top-tier education, and a balanced cost of living.
-Countries with high economic capacity & government stability generally rank higher.
-Affordable cost of living significantly impacts country rankings, as seen in adjusted composite scores.
+## 🔍 Key Findings
+- The United Kingdom ranks #1 due to strong governance, top-tier education, and a balanced cost of living.
+- Countries with high economic capacity & government stability generally rank higher.
+- Affordable cost of living significantly impacts country rankings, as seen in adjusted composite scores.
