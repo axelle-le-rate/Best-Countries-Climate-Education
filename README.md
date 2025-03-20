@@ -47,7 +47,7 @@ Countries were ranked based on a composite score derived from two key indices:
 ## 🚀 How to Run the Project
 1. **Clone the repo**:
 ```sh 
-git clone https://github.com/YourGitHubUsername/Climate-Ready-Countries-Ranking.git
+git clone https://github.com/axelle-le-rate/Climate-Ready-Countries-Ranking.git
 ```
 2. **Install dependencies in R:
 ```r
