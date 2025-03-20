@@ -27,14 +27,14 @@ Countries were ranked based on a composite score derived from two key indices:
 - Economic Capacity
 - Government Stability
 - Higher Education Quality
-- 
+  
 ### 2️⃣ Vulnerability Rank (Negative Factors)
 
 - Health Risks
 - Cost of Living
 - Fresh Water Availability
 - Arable Land Availability
-- 
+  
 ## 📊 Final Composite Score Calculation:
 - Readiness Rank - Vulnerability Rank = Composite Score
 - Higher scores indicate countries that are well-prepared for climate change while offering economic stability and livability.
