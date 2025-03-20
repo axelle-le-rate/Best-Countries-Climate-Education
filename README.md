@@ -5,6 +5,9 @@ This project ranks countries based on their climate readiness, economic capacity
 
 Through data cleaning, standardization, and composite scoring, this analysis determines which countries provide the best balance of climate resilience, economic stability, and affordability—with the United Kingdom emerging as the top choice!
 
+📄 **View the Full Analysis Report:**  
+[To-The-United-Kingdom.Rmd](To-The-United-Kingdom.Rmd)
+
 ## 🗂️ Dataset
 - Source: [University of Notre Dame](https://gain.nd.edu/our-work/country-index/)
 - Data Sizes:
